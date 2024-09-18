@@ -1,0 +1,19 @@
+"""Modules are used to copy or import  someone written code to 
+increase efficiency and save time. the code can be of any one else like
+any expert in the industry. An example can be you are making a calculator 
+you can import sum, difference, multiplication and division modules.
+
+There are two types of modules: 
+>Built in modules
+>External modules
+built-in modules are installed and comes along  with python
+they don't need to be added separately while external modules 
+are the opposite.
+
+
+
+PIP is the package manager which finds download and install modules 
+from the internet into the python interpreter
+
+
+EX: like you work as the middlemen between the grocery store and your kitchen needs"""
